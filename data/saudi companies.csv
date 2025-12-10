@@ -1,0 +1,366 @@
+name,ticker,market,sector
+Riyad Bank,1010,TADAWUL,Finance
+Bank Aljazira,1020,TADAWUL,Finance
+Saudi Investment Bank,1030,TADAWUL,Finance
+Banque Saudi Fransi,1050,TADAWUL,Finance
+Saudi Awwal Bank,1060,TADAWUL,Finance
+Arab National Bank,1080,TADAWUL,Finance
+Saudi Tadawul Group Holding Company,1111,TADAWUL,Finance
+Al Rajhi Bank,1120,TADAWUL,Finance
+Bank Albilad,1140,TADAWUL,Finance
+Alinma Bank,1150,TADAWUL,Finance
+Saudi National Bank,1180,TADAWUL,Finance
+Amlak International for Real Estate Finance Company,1182,TADAWUL,Finance
+SHL Finance Co.,1183,TADAWUL,Finance
+Takween Advanced Industries Co.,1201,TADAWUL,Process industries
+Middle East Paper Co.,1202,TADAWUL,Process industries
+Basic Chemical Industries Co.,1210,TADAWUL,Process industries
+Saudi Arabian Mining Co.,1211,TADAWUL,Non-energy minerals
+Astra Industrial Group,1212,TADAWUL,Health technology
+Naseej International Trading Co.,1213,TADAWUL,Consumer durables
+Al Hassan Ghazi Ibrahim Shaker Co.,1214,TADAWUL,Distribution services
+United Wire Factories Co.,1301,TADAWUL,Producer manufacturing
+Bawan Co.,1302,TADAWUL,Non-energy minerals
+Electrical Industries Co.,1303,TADAWUL,Producer manufacturing
+Al Yamamah Steel Industries Co.,1304,TADAWUL,Producer manufacturing
+Saudi Steel Pipe Co.,1320,TADAWUL,Non-energy minerals
+East Pipes Integrated Company for Industry,1321,TADAWUL,Non-energy minerals
+Al Masane Al Kobra Mining Co.,1322,TADAWUL,Non-energy minerals
+United Carton Industries Company,1323,TADAWUL,Process industries
+Seera Holding Group,1810,TADAWUL,Finance
+BAAN Holding Group Company,1820,TADAWUL,Consumer services
+Leejam Sports Co.,1830,TADAWUL,Consumer services
+Maharah Human Resources Co.,1831,TADAWUL,Commercial services
+Sadr Logistics Co.,1832,TADAWUL,Producer manufacturing
+Almawarid Manpower Company,1833,TADAWUL,Commercial services
+Saudi Manpower Solutions Company,1834,TADAWUL,Commercial services
+Tamkeen Human Resources Company,1835,TADAWUL,Commercial services
+Methanol Chemicals Co.,2001,TADAWUL,Process industries
+Saudi Basic Industries Corp.,2010,TADAWUL,Process industries
+SABIC Agri-Nutrients Co.,2020,TADAWUL,Process industries
+Saudi Arabia Refineries Co.,2030,TADAWUL,Finance
+Saudi Ceramic Co.,2040,TADAWUL,Producer manufacturing
+Savola Group,2050,TADAWUL,Process industries
+National Industrialization Co.,2060,TADAWUL,Producer manufacturing
+Saudi Pharmaceutical Industries & Medical Appliances Corp.,2070,TADAWUL,Health technology
+National Gas & Industrialization Co.,2080,TADAWUL,Utilities
+Alkhorayef Water & Power Technologies,2081,TADAWUL,Industrial services
+ACWA Power,2082,TADAWUL,Utilities
+Power and Water Utility Company for Jubail and Yanbu (Marafiq),2083,TADAWUL,Utilities
+Miahona Co.,2084,TADAWUL,Utilities
+National Gypsum Co.,2090,TADAWUL,Non-energy minerals
+Wafrah for Industry & Development,2100,TADAWUL,Consumer non-durables
+Saudi Cable Co.,2110,TADAWUL,Producer manufacturing
+Saudi Advanced Industries Co.,2120,TADAWUL,Finance
+Saudi Industrial Development Co.,2130,TADAWUL,Consumer durables
+AYYAN Investment Company,2140,TADAWUL,Industrial services
+National Co. for Glass Industries,2150,TADAWUL,Process industries
+Saudi Arabian Amiantit Co.,2160,TADAWUL,Non-energy minerals
+Alujain Corporation,2170,TADAWUL,Process industries
+Filing & Packing Materials Manufacturing Co.,2180,TADAWUL,Process industries
+Sustained Infrastructure Holding Company,2190,TADAWUL,Transportation
+Arabian Pipes Co.,2200,TADAWUL,Non-energy minerals
+Nama Chemicals,2210,TADAWUL,Process industries
+National Metal Manufacturing & Casting Co.,2220,TADAWUL,Non-energy minerals
+Saudi Arabian Oil Co.,2222,TADAWUL,Energy minerals
+Saudi Aramco Base Oil Company - Luberef,2223,TADAWUL,Energy minerals
+Saudi Chemical Co.,2230,TADAWUL,Process industries
+Zamil Industrial Investment Co.,2240,TADAWUL,Producer manufacturing
+Saudi Industrial Investment Group,2250,TADAWUL,Process industries
+Saudia Dairy & Foodstuff Co.,2270,TADAWUL,Consumer non-durables
+Almarai Company,2280,TADAWUL,Consumer non-durables
+Tanmiah Food Company,2281,TADAWUL,Consumer non-durables
+Naqi Water Company,2282,TADAWUL,Consumer non-durables
+First Milling Co.,2283,TADAWUL,Process industries
+Modern Mills Co.,2284,TADAWUL,Process industries
+Arabian Mills for Food Products Company,2285,TADAWUL,Process industries
+Fourth Milling Company,2286,TADAWUL,Process industries
+Arabian Company for Agricultural and Industrial Investment,2287,TADAWUL,Process industries
+Yanbu National Petrochemical Co.,2290,TADAWUL,Process industries
+Saudi Paper Manufacturing Co.,2300,TADAWUL,Process industries
+Sahara International Petrochemical Company,2310,TADAWUL,Process industries
+Al-Babtain Power & Telecommunication Co.,2320,TADAWUL,Producer manufacturing
+Advanced Petrochemical Co.,2330,TADAWUL,Process industries
+ARTEX Industrial Investment Company,2340,TADAWUL,Consumer durables
+Saudi Kayan Petrochemical Co.,2350,TADAWUL,Process industries
+Saudi Vitrified Clay Pipes Co.,2360,TADAWUL,Producer manufacturing
+Middle East Specialized Cables Co.,2370,TADAWUL,Producer manufacturing
+Rabigh Refining & Petrochemical Co.,2380,TADAWUL,Energy minerals
+Arabian Drilling Co.,2381,TADAWUL,Industrial services
+Ades Holding Company,2382,TADAWUL,Industrial services
+Najran Cement Co.,3002,TADAWUL,Non-energy minerals
+City Cement Co.,3003,TADAWUL,Non-energy minerals
+Northern Region Cement Co.,3004,TADAWUL,Non-energy minerals
+Umm Al-Qura Cement Company,3005,TADAWUL,Non-energy minerals
+Zahrat Al Waha For Trading Co.,3007,TADAWUL,Process industries
+Al Kathiri Holding Company,3008,TADAWUL,Distribution services
+Arabian Cement Co.,3010,TADAWUL,Non-energy minerals
+Yamamah Saudi Cement Co.,3020,TADAWUL,Non-energy minerals
+Saudi Cement Co.,3030,TADAWUL,Non-energy minerals
+Qassim Cement Co.,3040,TADAWUL,Non-energy minerals
+Southern Province Cement Co.,3050,TADAWUL,Non-energy minerals
+Yanbu Cement Co.,3060,TADAWUL,Non-energy minerals
+Eastern Province Cement Co.,3080,TADAWUL,Non-energy minerals
+Tabuk Cement Co.,3090,TADAWUL,Non-energy minerals
+Al Jouf Cement Co.,3091,TADAWUL,Non-energy minerals
+Riyadh Cement Co.,3092,TADAWUL,Non-energy minerals
+Abdullah Al Othaim Markets Co.,4001,TADAWUL,Retail trade
+Mouwasat Medical Services Co.,4002,TADAWUL,Health services
+United Electronics Co.,4003,TADAWUL,Finance
+Dallah Healthcare Co.,4004,TADAWUL,Health services
+National Medical Care Co.,4005,TADAWUL,Health services
+Saudi Marketing Co.,4006,TADAWUL,Retail trade
+Al Hammadi Holding,4007,TADAWUL,Health services
+Saudi Co. for Hardware,4008,TADAWUL,Retail trade
+Middle East Healthcare Company,4009,TADAWUL,Health services
+Lazurde Company for Jewelry,4011,TADAWUL,Consumer durables
+Thob Al-Aseel Co.,4012,TADAWUL,Distribution services
+Dr. Sulaiman Al-Habib Medical Services Group Co.,4013,TADAWUL,Health services
+Scientific and Medical Equipment House,4014,TADAWUL,Consumer services
+Jamjoom Pharmaceuticals Factory Co.,4015,TADAWUL,Health technology
+Middle East Pharmaceutical Industries Company,4016,TADAWUL,Health technology
+Dr. Soliman Abdul Kader Fakeeh Hospital Co.,4017,TADAWUL,Health services
+Almoosa Health Co.,4018,TADAWUL,Health services
+Specialized Medical Company,4019,TADAWUL,Health services
+Saudi Real Estate Co.,4020,TADAWUL,Consumer durables
+National Shipping Co. of Saudi Arabia,4030,TADAWUL,Transportation
+Saudi Ground Services Co.,4031,TADAWUL,Transportation
+Saudi Public Transport Co.,4040,TADAWUL,Transportation
+Saudi Automotive Services Co.,4050,TADAWUL,Retail trade
+Baazeem Trading Co.,4051,TADAWUL,Distribution services
+Anaam International Holding Group,4061,TADAWUL,Distribution services
+Tihama Advertising & Public Relations Co.,4070,TADAWUL,Commercial services
+Arabian Contracting Services Co.,4071,TADAWUL,Commercial services
+MBC Group Company,4072,TADAWUL,Consumer services
+Sinad Holding Company,4080,TADAWUL,Finance
+Nayifat Finance Company,4081,TADAWUL,Finance
+Morabaha Marina Financing Company,4082,TADAWUL,Finance
+United International Holding Co.,4083,TADAWUL,Finance
+Derayah Financial Company,4084,TADAWUL,Finance
+Taiba Investment Company,4090,TADAWUL,Consumer durables
+Makkah Construction & Development Co.,4100,TADAWUL,Finance
+Batic Investments and Logistics Co.,4110,TADAWUL,Transportation
+Saudi Darb Investment Co.,4130,TADAWUL,Finance
+Saudi Industrial Export Co.,4140,TADAWUL,Distribution services
+Al-Omran Industrial & Trading Co.,4141,TADAWUL,Producer manufacturing
+Riyadh Cables Group Co.,4142,TADAWUL,Producer manufacturing
+Al Taiseer Group Talco Industrial Co.,4143,TADAWUL,Non-energy minerals
+Raoom trading Company,4144,TADAWUL,Process industries
+Obeikan Glass Co,4145,TADAWUL,Process industries
+Arriyadh Development Co.,4150,TADAWUL,Finance
+THIMAR Development Holding Co.,4160,TADAWUL,Distribution services
+BinDawood Holding Company,4161,TADAWUL,Retail trade
+Almunajem Foods Company,4162,TADAWUL,Distribution services
+Al Dawaa Medical Services Co.,4163,TADAWUL,Distribution services
+Nahdi Medical Company,4164,TADAWUL,Distribution services
+Al Majed for Oud Company,4165,TADAWUL,Retail trade
+Tourism Enterprise Co.,4170,TADAWUL,Consumer services
+Fitaihi Holding Group,4180,TADAWUL,Distribution services
+Jarir Marketing Co.,4190,TADAWUL,Retail trade
+Abdullah Saad Mohammed Abo Moati for Bookstores Co.,4191,TADAWUL,Retail trade
+Al-Saif Stores for Development & Investment Co.,4192,TADAWUL,Retail trade
+Nice One Beauty Digital Marketing Co.,4193,TADAWUL,Retail trade
+Marketing Home Group for Trading Co.,4194,TADAWUL,Retail trade
+Aldrees Petroleum & Transport Services Co.,4200,TADAWUL,Distribution services
+Saudi Research and Media Group,4210,TADAWUL,Commercial services
+"Emaar, The Economic City",4220,TADAWUL,Finance
+Red Sea International Co.,4230,TADAWUL,Producer manufacturing
+Fawaz Abdulaziz AlHokair Co.,4240,TADAWUL,Retail trade
+Jabal Omar Development Co.,4250,TADAWUL,Consumer services
+United International Transportation Co. Ltd.,4260,TADAWUL,Finance
+Theeb Rent a Car Company,4261,TADAWUL,Finance
+Lumi Rental Company,4262,TADAWUL,Finance
+SAL Saudi Logistics Services Company,4263,TADAWUL,Transportation
+Flynas Co.,4264,TADAWUL,Transportation
+Saudi Printing & Packaging Co.,4270,TADAWUL,Commercial services
+Kingdom Holding Co.,4280,TADAWUL,Finance
+Al Khaleej Training & Education Co.,4290,TADAWUL,Consumer services
+National Co. for Learning & Education,4291,TADAWUL,Consumer services
+Ataa Educational Company,4292,TADAWUL,Consumer services
+Dar Al Arkan Real Estate Development Co.,4300,TADAWUL,Finance
+Knowledge Economic City,4310,TADAWUL,Finance
+Alandalus Property Co.,4320,TADAWUL,Finance
+Arabian Centres Co.,4321,TADAWUL,Finance
+Retal Urban Development Company,4322,TADAWUL,Finance
+Sumou Real Estate Co.,4323,TADAWUL,Finance
+Banan Real Estate Company,4324,TADAWUL,Finance
+Umm Al Qura for Development and Construction Company,4325,TADAWUL,Finance
+Dar Al Majed Real Estate Co.,4326,TADAWUL,Consumer durables
+Saudi Electricity Co.,5110,TADAWUL,Utilities
+Halwani Brothers Company,6001,TADAWUL,Consumer non-durables
+Herfy Food Services Co.,6002,TADAWUL,Consumer services
+CATRION Catering Holding Company,6004,TADAWUL,Transportation
+National Agricultural Development Co.,6010,TADAWUL,Consumer non-durables
+Raydan Food Co.,6012,TADAWUL,Consumer services
+Development Works Food Co.,6013,TADAWUL,Consumer services
+AlAmar Foods Co.,6014,TADAWUL,Consumer services
+Shatirah House Restaurant Burgerizzr Co.,6016,TADAWUL,Consumer services
+Jahez International Company for Information Systems Technology,6017,TADAWUL,Technology services
+Sport Clubs Co.,6018,TADAWUL,Consumer services
+Al Gassim Investment Holding Co.,6020,TADAWUL,Process industries
+Tabuk Agricultural Development Co.,6040,TADAWUL,Consumer non-durables
+Saudi Fisheries Co.,6050,TADAWUL,Consumer non-durables
+Ash-Sharqiyah Development Co.,6060,TADAWUL,Process industries
+Al-Jouf Agriculture Development Co.,6070,TADAWUL,Process industries
+Jazan Development and Investment Company,6090,TADAWUL,Process industries
+Saudi Telecom Co.,7010,TADAWUL,Communications
+Etihad Etisalat Co.,7020,TADAWUL,Communications
+Mobile Telecommunications Company Saudi Arabia,7030,TADAWUL,Communications
+Etihad Atheeb Telecommunication Co.,7040,TADAWUL,Communications
+Al Moammar Information Systems Company,7200,TADAWUL,Technology services
+Arab Sea Information Systems Co.,7201,TADAWUL,Distribution services
+Arabian Internet and Communications Services Company,7202,TADAWUL,Technology services
+Elm Company,7203,TADAWUL,Technology services
+Perfect Presentation for Commercial Services Co.,7204,TADAWUL,Technology services
+Saudi Azm for Communication and Information Technology Co.,7211,TADAWUL,Technology services
+Company for Cooperative Insurance,8010,TADAWUL,Finance
+AlJazira Takaful Taawuni Co.,8012,TADAWUL,Finance
+Malath Cooperative Insurance Co.,8020,TADAWUL,Finance
+Mediterranean & Gulf Cooperative Insurance & Reinsurance Co.,8030,TADAWUL,Finance
+Mutakamela Insurance Company,8040,TADAWUL,Finance
+SALAMA Cooperative Insurance Co.,8050,TADAWUL,Finance
+Walaa Cooperative Insurance Co.,8060,TADAWUL,Finance
+Arabian Shield Cooperative Insurance Co.,8070,TADAWUL,Finance
+Saudi Arabian Cooperative Insurance Co.,8100,TADAWUL,Finance
+Gulf Union Alahlia Cooperative Insurance Co.,8120,TADAWUL,Finance
+Allied Cooperative Insurance Group,8150,TADAWUL,Finance
+Arabia Insurance Cooperative Co.,8160,TADAWUL,Finance
+Al-Etihad Cooperative Insurance Co.,8170,TADAWUL,Finance
+Al Sagr Cooperative Insurance Co.,8180,TADAWUL,Finance
+United Cooperative Assurance Co.,8190,TADAWUL,Finance
+Saudi Reinsurance Company,8200,TADAWUL,Finance
+Bupa Arabia for Cooperative Insurance Co.,8210,TADAWUL,Finance
+Al Rajhi Co. for Cooperative Insurance,8230,TADAWUL,Finance
+Chubb Arabia Cooperative Insurance Company,8240,TADAWUL,Finance
+Gulf Insurance Group - GIG,8250,TADAWUL,Finance
+Gulf General Cooperative Insurance Co.,8260,TADAWUL,Finance
+Buruj Cooperative Insurance Co.,8270,TADAWUL,Finance
+LIVA Insurance Company,8280,TADAWUL,Finance
+Wataniya Insurance Co.,8300,TADAWUL,Finance
+Amana Cooperative Insurance Co.,8310,TADAWUL,Finance
+Saudi Enaya Cooperative Insurance Company,8311,TADAWUL,Health services
+Rasan Information Technology Co.,8313,TADAWUL,Technology services
+National Building & Marketing Co.,9510,TADAWUL,Distribution services
+Watani Iron Steel Co,9513,TADAWUL,Non-energy minerals
+Mohammed Hassan Al Naqool Sons Co. Ltd,9514,TADAWUL,Non-energy minerals
+Fesh Fash Snack Food Production Co.,9515,TADAWUL,Consumer non-durables
+Natural Gas Distribution Company,9516,TADAWUL,Utilities
+MOBI Industry Company,9517,TADAWUL,Consumer non-durables
+Canadian Medical Center Co.,9518,TADAWUL,Health services
+Enma AlRawabi Co.,9521,TADAWUL,Finance
+Alhasoob Co.,9522,TADAWUL,Distribution services
+Group Five Pipe Saudi Ltd.,9523,TADAWUL,Non-energy minerals
+Advance International Company for Communication and Information Technology,9524,TADAWUL,Technology services
+Alwasail Industrial Company,9525,TADAWUL,Producer manufacturing
+AME Company for Medical Supplies,9527,TADAWUL,Distribution services
+Gas Arabian Services Co,9528,TADAWUL,Industrial services
+Arabian International Healthcare Holding Co.,9530,TADAWUL,Health technology
+Al-Jouf Healthy Water Bottling Company,9532,TADAWUL,Consumer non-durables
+Saudi Parts Center Co,9533,TADAWUL,Distribution services
+Ladun Investment Company,9535,TADAWUL,Finance
+Arabian Food & Dairy Factories Co.,9536,TADAWUL,Consumer non-durables
+Amwaj International Co,9537,TADAWUL,Retail trade
+Naseej for Technology Co.,9538,TADAWUL,Technology services
+Aqaseem Factory for Chemicals and Plastics Co.,9539,TADAWUL,Process industries
+National Environmental Recycling Co.,9540,TADAWUL,Distribution services
+Academy of Learning Co.,9541,TADAWUL,Technology services
+"Saudi Networkers Services Co., Ltd.",9543,TADAWUL,Technology services
+Future Care Trading Co.,9544,TADAWUL,Health services
+International Human Resources Company,9545,TADAWUL,Commercial services
+Naba Alsaha Medical Services Co.,9546,TADAWUL,Health services
+Rawasi Al Bina Investment Co.,9547,TADAWUL,Communications
+Arabian Plastic Industrial Co.,9548,TADAWUL,Producer manufacturing
+Abdulaziz and Mansour Ibrahim Albabtin Co.,9549,TADAWUL,Consumer non-durables
+Sure Global Technology Company,9550,TADAWUL,Technology services
+Knowledge Tower Trading Co.,9551,TADAWUL,Distribution services
+Saudi Top for Trading Company,9552,TADAWUL,Process industries
+Molan Steel Company,9553,TADAWUL,Distribution services
+Leen Alkhair Trading Co,9555,TADAWUL,Distribution services
+Nofoth Food Products Co,9556,TADAWUL,Consumer non-durables
+Edarat Communication and Information Technology Co.,9557,TADAWUL,Technology services
+Alqemam for Computer Systems Co.,9558,TADAWUL,Technology services
+Balady Poultry Trading Co.,9559,TADAWUL,Process industries
+WAJA company,9560,TADAWUL,Industrial services
+Knowledge Net Company,9561,TADAWUL,Technology services
+Food Gate Trading Company,9562,TADAWUL,Consumer services
+Bena Steel Industries Company,9563,TADAWUL,Producer manufacturing
+Horizon Food Company,9564,TADAWUL,Consumer non-durables
+Meyar Company,9565,TADAWUL,Commercial services
+Saudi Lime Industries Company,9566,TADAWUL,Non-energy minerals
+Ghida Al-Sultan Co.,9567,TADAWUL,Consumer services
+Mayar Holding Co.,9568,TADAWUL,Producer manufacturing
+Almuneef Co. for Trading Industry Agriculture & Contraracting,9569,TADAWUL,Distribution services
+Tam Development Company,9570,TADAWUL,Technology services
+Munawla Cargo Company,9571,TADAWUL,Transportation
+Al Razi Medical Company,9572,TADAWUL,Retail trade
+Professional Medical Expertise Co.,9574,TADAWUL,Distribution services
+Marble Design Company,9575,TADAWUL,Non-energy minerals
+Paper Home Company,9576,TADAWUL,Process industries
+DAR ALMARKABAH For Renting Cars Company,9577,TADAWUL,Transportation
+Atlas Elevators General Trading and Contracting Company,9578,TADAWUL,Distribution services
+Intelligent Oud Company For Trading,9579,TADAWUL,Retail trade
+Al Rashid Industrial Co,9580,TADAWUL,Producer manufacturing
+Clean life company,9581,TADAWUL,Commercial services
+United Mining Industries Company,9583,TADAWUL,Non-energy minerals
+Riyal Investment and Development Company,9584,TADAWUL,Finance
+Mulkia Investment Company,9585,TADAWUL,Finance
+Osool & Bakheet Investment Company,9586,TADAWUL,Finance
+Lana Medical Co.,9587,TADAWUL,Health services
+Riyadh Steel Company,9588,TADAWUL,Producer manufacturing
+Fad International Company,9589,TADAWUL,Consumer non-durables
+Armah Sports Company,9590,TADAWUL,Consumer services
+View United Real Estate Development Company,9591,TADAWUL,Finance
+Almujtama Alraida Medical Co.,9592,TADAWUL,Health services
+Pan Gulf Marketing Co.,9593,TADAWUL,Distribution services
+Almodawat Specialized Medical Hospital Company,9594,TADAWUL,Health services
+WSM for Information Technology Co.,9595,TADAWUL,Technology services
+Quara Finance Company,9596,TADAWUL,Technology services
+Leaf Global Environmental Services Company,9597,TADAWUL,Commercial services
+Al Mohafaza Company for Education,9598,TADAWUL,Consumer services
+Taqat Mineral Trading Co,9599,TADAWUL,Non-energy minerals
+Qomel Company,9600,TADAWUL,Health technology
+Mohammed Hadi Al Rasheed and Partners Co.,9601,TADAWUL,Non-energy minerals
+Yaqeen Capital Company,9602,TADAWUL,Finance
+Horizon Educational Company,9603,TADAWUL,Consumer services
+Miral Dental Clinics Co.,9604,TADAWUL,Health services
+Neft Alsharq Co. for Chemical Industries,9605,TADAWUL,Process industries
+Altharwah Albashariyyah Co.,9606,TADAWUL,Commercial services
+ASG Plastic Factory Company,9607,TADAWUL,Producer manufacturing
+Al Ashghal Almoysra Company,9608,TADAWUL,Commercial services
+Naas Petrol Factory Company,9609,TADAWUL,Process industries
+First Avenue Real Estate Development Company,9610,TADAWUL,Finance
+United Arab Float Glass Co.,9611,TADAWUL,Process industries
+SAMA Healthy Water Factory company,9612,TADAWUL,Consumer non-durables
+Shalfa Facilities Management Co.,9613,TADAWUL,Commercial services
+Purity For Information Technology Co.,9614,TADAWUL,Technology services
+Mufeed Company,9615,TADAWUL,Consumer services
+Jana Medical Company,9616,TADAWUL,Health technology
+Arabica Star Company,9617,TADAWUL,Consumer services
+Al-Fakhera Men Tailoring Co.,9618,TADAWUL,Distribution services
+Multi Business Group for Projects Company,9619,TADAWUL,Industrial services
+Balsm Alofoq Medical Company,9620,TADAWUL,Health services
+Digital Research Company,9621,TADAWUL,Technology services
+Shmoh Almadi Co.,9622,TADAWUL,Retail trade
+Albattal Factory for Chemical Industries Co.,9623,TADAWUL,Process industries
+Alshehili Company for metal industries,9624,TADAWUL,Producer manufacturing
+Itmam Consultancy Co.,9625,TADAWUL,Commercial services
+Basma Adeem Medical Co.,9626,TADAWUL,Health services
+Twareat Medical Care Co.,9627,TADAWUL,Health services
+Lamasat Company Limited,9628,TADAWUL,Consumer services
+Ratio Specialty Company For Trading,9630,TADAWUL,Consumer services
+Hedab Alkhaleej Trading Co.,9631,TADAWUL,Distribution services
+Future Vision for Health Training Co.,9632,TADAWUL,Commercial services
+Service Equipment Co.,9633,TADAWUL,Distribution services
+Adeer Real Estate Co.,9634,TADAWUL,Technology services
+Dkhoun National Trading Co.,9635,TADAWUL,Retail trade
+Al Kuzama Trading Company,9636,TADAWUL,Consumer services
+Axelerated Solutions for Information & Communication Tech,9637,TADAWUL,Technology services
+Anmat Technology for Trading Co.,9639,TADAWUL,Communications
+ASAS Makeen Real Estate Development and Investment Company,9640,TADAWUL,Finance
+Hawyia Auctions Co.,9641,TADAWUL,Commercial services
+Time Entertainment Co.,9642,TADAWUL,Consumer services
+Naf Company for Feed for Industry,9644,TADAWUL,Process industries
+National Signage Industria Co.,9645,TADAWUL,Producer manufacturing
+Wajd Life Trading Co.,9647,TADAWUL,Distribution services
+Hamad Mohammed Bin Saedan Real Estate Co.,9648,TADAWUL,Finance
+JAMJOOM FASHION TRADING COMPANY,9649,TADAWUL,
