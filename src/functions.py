@@ -1,3 +1,5 @@
+import yfinance as yf
+
 marketf = "data/saudi companies.csv"
 trackedf = "data/tracked companies.csv"
 
@@ -19,19 +21,27 @@ def comp_read2dct(f, pf=True):
 
 def comp_add(tracked, market):
 	""" prompts for new companies and validaits before adding them """
-	inp = input("type company symbol to add to tracker, if not type skip:")
+	inp = input("type company symbol to add to tracker, if not type skip: ")
 	while inp.upper() != "SKIP":
 		if inp in tracked:
 			print(inp, "is already tracked")
-			inp = input("type company symbol to add to tracker, if not type skip:")
+			inp = input("type company symbol to add to tracker, if not type skip: ")
 			continue
 		if not inp in market:
 			print(inp, "not a valid symbol")
-			inp = input("type company symbol to add to tracker, if not type skip:")
+			inp = input("type company symbol to add to tracker, if not type skip: ")
 			continue
 		tracked[inp] = market[inp]
 		print("name, symbol")
 		for i in tracked:
 			print(tracked[i], i)
-		inp = input("type company symbol to add to tracker, if not type skip:")
+		inp = input("type company symbol to add to tracker, if not type skip: ")
+	return
+
+def print_tdy_data(tracked):
+	symbols = [i+".SR" for i in tracked]
+	data = yf.download(symbols, period="5d", interval="1d")
+	data = data.iloc[-1]
+	#print(tracked[symbol], symbol)
+	print(data)
 	return
