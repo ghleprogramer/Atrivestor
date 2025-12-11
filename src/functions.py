@@ -25,7 +25,7 @@ def comp_read2dct(f, pf=True):
 			table[col] = table[col].str.ljust(max_width)
 		print("\nTracked Companies:\n")
 		print(table.to_string(index=False, justify="left"))
-	print()
+		print()
 	return comp
 
 def comp_add(tracked, market):
