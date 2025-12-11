@@ -1,5 +1,5 @@
 .DS_Store
-api_key.txt
+data/api_key.txt
 test*
 
 # Byte-compiled / optimized / DLL files

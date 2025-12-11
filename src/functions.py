@@ -46,6 +46,7 @@ def comp_add(tracked, market):
 		for i in tracked:
 			print(tracked[i], i)
 		inp = input(msg)
+	print()
 	return
 
 def print_tdy_data(tracked):

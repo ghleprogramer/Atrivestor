@@ -6,7 +6,6 @@ def main():
 	# read & print compaines of interest
 	market_companies = comp_read2dct(marketf, pf=False)
 	tracked_companies = comp_read2dct(trackedf)
-	# prompt for additional compaines & validate symbols
 	comp_add(tracked_companies, market_companies)
 	# fetch & print stock data from yahoo finance
 	print_tdy_data(tracked_companies)
