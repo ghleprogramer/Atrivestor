@@ -1,5 +1,6 @@
 #main :D
-from functions import comp_read2dct, comp_add, print_tdy_data, trackedf, marketf
+from functions import comp_read2dct, comp_add, print_tdy_data, display_markdown, trackedf, marketf
+from GemiAPI import gemini_summary
 
 def main():
 	# read & print compaines of interest
@@ -11,10 +12,12 @@ def main():
 	print_tdy_data(tracked_companies)
 	# scrape new announcments from https://www.saudiexchange.sa/wps/portal/saudiexchange/newsandreports/issuer-news/issuer-announcements/
 	
-	# summarise new announcments via an AI API
-	
+	# summarise new announcments via an Google Geminie API
+	summary_text = gemini_summary("data/testannouncment.pdf",
+		"Please provide a clear, concise summary of this PDF. Highlight the main points, key arguments, and any conclusions."
+	)
 	# print out AI announcments summaries
-	
+	display_markdown(summary_text)
 	return
 
 main()

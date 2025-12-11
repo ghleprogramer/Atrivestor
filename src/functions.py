@@ -1,5 +1,8 @@
 import yfinance as yf
+from rich.console import Console
+from rich.markdown import Markdown
 
+console = Console()
 marketf = "data/saudi companies.csv"
 trackedf = "data/tracked companies.csv"
 
@@ -40,8 +43,10 @@ def comp_add(tracked, market):
 
 def print_tdy_data(tracked):
 	symbols = [i+".SR" for i in tracked]
-	data = yf.download(symbols, period="5d", interval="1d")
-	data = data.iloc[-1]
-	#print(tracked[symbol], symbol)
+	data = yf.download(symbols, period="1d", interval="1d")
 	print(data)
 	return
+
+def display_markdown(text):
+    md = Markdown(text)
+    console.print(md)
